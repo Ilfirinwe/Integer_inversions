@@ -1,0 +1,5 @@
+C:\Users\Игорь\Documents\Repositories\Integer_inversions\Integer Inversions\Integer Inversions.Data\bin\Debug\Integer Inversions.Data.dll
+C:\Users\Игорь\Documents\Repositories\Integer_inversions\Integer Inversions\Integer Inversions.Data\bin\Debug\Integer Inversions.Data.pdb
+C:\Users\Игорь\Documents\Repositories\Integer_inversions\Integer Inversions\Integer Inversions.Data\obj\Debug\Integer Inversions.Data.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Repositories\Integer_inversions\Integer Inversions\Integer Inversions.Data\obj\Debug\Integer Inversions.Data.dll
+C:\Users\Игорь\Documents\Repositories\Integer_inversions\Integer Inversions\Integer Inversions.Data\obj\Debug\Integer Inversions.Data.pdb
